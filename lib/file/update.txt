@@ -1,0 +1,1 @@
+12/13¨ç¦¡®w§ó·s  int getFileSize(void)  =>  int getFileSize(char *addr_name)
